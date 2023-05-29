@@ -24,9 +24,9 @@
 
 ### 🧑‍💻: About Me :
 
-I am an aspiring developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Zealand, based between the UK and Switzerland.
+I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Zealand, based between the UK and Switzerland.
 
-- :telescope: I’m a trained organic chemist, making the move into software and web development.
+- :telescope: I’m a trained organic chemist, making the move into web development.
 
 - :seedling: I'm passionate about learning new technologies and I'm progessing fast!
 
